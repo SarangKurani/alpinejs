@@ -1,0 +1,22 @@
+{
+  "name": "alpinejs-tutorial",
+  "version": "1.0.0",
+  "description": "Following along with tutorial found at https://blog.logrocket.com/getting-started-with-alpine-js/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/SarangKurani/alpinejs-tutorial.git"
+  },
+  "author": "Sarang Kurani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SarangKurani/alpinejs-tutorial/issues"
+  },
+  "homepage": "https://github.com/SarangKurani/alpinejs-tutorial#readme",
+  "dependencies": {
+    "alpinejs": "^2.2.5"
+  }
+}
